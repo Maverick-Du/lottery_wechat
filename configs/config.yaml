@@ -1,0 +1,20 @@
+app:
+  app_name: "lottery_wechat"
+  version: "v0.0.1"
+  port: 8088
+  run_mod: release
+
+log:
+  log_pattern: "file" #stdout
+  log_path: "./log/server.log"
+  save_days: 5
+  level: debug
+db:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "duzhuoheng318"
+  dbname: "lottery_system"
+  max_idle_conn: 5
+  max_open_conn: 20
+  max_idle_time: 300

@@ -1,0 +1,3 @@
+[2024-07-24 10:35:42] ERROR[main.go:23][listen tcp: lookup tcp/%!d(string=8080): unknown port]
+[2024-07-24 10:54:36] ERROR[main.go:23][listen tcp: lookup tcp/%!d(string=8081): unknown port]
+[2024-07-24 11:34:46] ERROR[main.go:23][listen tcp: lookup tcp/%!d(string=8088): unknown port]

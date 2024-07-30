@@ -1,0 +1,2 @@
+[2024-07-25 10:49:17] ERROR[main.go:23][sever run err :listen tcp: lookup tcp/%!d(string=8088): unknown port]
+[2024-07-25 10:51:03] ERROR[main.go:23][sever run err :listen tcp: lookup tcp/%!d(string=8088): unknown port]

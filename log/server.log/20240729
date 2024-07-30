@@ -1,0 +1,38 @@
+[2024-07-29 09:34:54] ERROR[api.go:17][InitPrize err:invalid character '0' after object key:value pair]
+[2024-07-29 09:37:14] ERROR[api.go:17][InitPrize err:invalid character '0' after object key:value pair]
+[2024-07-29 09:38:14] ERROR[api.go:17][InitPrize err:invalid character '0' after object key:value pair]
+[2024-07-29 09:40:54] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(0.0.0.0:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local]
+[2024-07-29 09:50:39] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(127.0.0.1:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local][2024-07-29 10:00:13] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(127.0.0.1:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local][2024-07-29 11:43:17] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(127.0.0.1:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local][2024-07-29 11:43:20] INFO[prize.go:16][repo|add prize success][2024-07-29 11:45:46] INFO[service.go:49][service|GetWinner :9253
+][2024-07-29 11:45:48] INFO[service.go:49][service|GetWinner :2344
+][2024-07-29 11:45:48] INFO[prize.go:34][repo|save prize success][2024-07-29 11:45:51] INFO[service.go:49][service|GetWinner :7721
+][2024-07-29 11:45:54] INFO[service.go:49][service|GetWinner :3385
+][2024-07-29 11:45:54] INFO[prize.go:34][repo|save prize success][2024-07-29 11:45:56] INFO[service.go:49][service|GetWinner :1711
+][2024-07-29 11:45:56] INFO[prize.go:34][repo|save prize success][2024-07-29 11:45:59] INFO[service.go:49][service|GetWinner :5026
+][2024-07-29 11:46:03] INFO[service.go:49][service|GetWinner :5146
+][2024-07-29 11:46:04] INFO[service.go:49][service|GetWinner :2952
+][2024-07-29 11:46:04] INFO[prize.go:34][repo|save prize success][2024-07-29 11:46:06] INFO[service.go:49][service|GetWinner :82
+][2024-07-29 11:46:06] INFO[prize.go:34][repo|save prize success][2024-07-29 11:46:07] INFO[service.go:49][service|GetWinner :3494
+][2024-07-29 11:46:07] INFO[prize.go:34][repo|save prize success][2024-07-29 11:46:08] INFO[service.go:49][service|GetWinner :5528
+][2024-07-29 11:46:09] INFO[service.go:49][service|GetWinner :3584
+][2024-07-29 11:46:09] INFO[prize.go:34][repo|save prize success][2024-07-29 11:46:10] INFO[service.go:49][service|GetWinner :9230
+][2024-07-29 11:46:11] INFO[service.go:49][service|GetWinner :9860
+][2024-07-29 11:46:12] INFO[service.go:49][service|GetWinner :5010
+][2024-07-29 11:46:12] INFO[service.go:49][service|GetWinner :7585
+][2024-07-29 11:46:13] INFO[service.go:49][service|GetWinner :6727
+][2024-07-29 11:46:14] INFO[service.go:49][service|GetWinner :1839
+][2024-07-29 11:46:14] INFO[prize.go:34][repo|save prize success][2024-07-29 11:46:15] INFO[service.go:49][service|GetWinner :8854
+][2024-07-29 11:47:19] INFO[service.go:49][service|GetWinner :7048
+][2024-07-29 11:48:59] INFO[service.go:49][service|GetWinner :1987
+][2024-07-29 11:49:04] INFO[prize.go:34][repo|save prize success][2024-07-29 11:52:00] INFO[service.go:49][service|GetWinner :7978
+][2024-07-29 11:52:07] INFO[service.go:49][service|GetWinner :6915
+][2024-07-29 13:34:01] INFO[service.go:49][service|GetWinner :459
+][2024-07-29 13:34:01] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(127.0.0.1:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local][2024-07-29 13:34:11] INFO[prize.go:34][repo|save prize success][2024-07-29 13:34:48] INFO[service.go:49][service|GetWinner :9590
+][2024-07-29 13:34:55] INFO[service.go:49]
+[service|GetWinner :5538][2024-07-29 13:36:06] INFO[service.go:49][service|GetWinner :2346
+][2024-07-29 13:36:25] INFO[prize.go:34][repo|save prize success][2024-07-29 13:36:34] INFO[service.go:49][service|GetWinner :6912
+][2024-07-29 13:37:20] INFO[service.go:49][service|GetWinner :3514
+][2024-07-29 13:37:20] INFO[prize.go:34][repo|save prize success][2024-07-29 13:37:32] INFO[service.go:49][service|GetWinner :8860
+][2024-07-29 13:37:37] INFO[service.go:49][service|GetWinner :9847
+][2024-07-29 13:37:41] INFO[service.go:49][service|GetWinner :9876
+][2024-07-29 13:37:44] INFO[service.go:49][service|GetWinner :8081
+]

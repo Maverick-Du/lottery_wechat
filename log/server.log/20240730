@@ -1,0 +1,41 @@
+[2024-07-30 09:18:23] INFO[service.go:49][service|GetWinner :248
+][2024-07-30 09:18:23] INFO[db.go:22][connArgs:root:duzhuoheng318@tcp(127.0.0.1:3306)/lottery_system?charset=utf8mb4&parseTime=True&loc=Local][2024-07-30 09:18:23] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:26] INFO[service.go:49][service|GetWinner :6447
+][2024-07-30 09:18:26] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:28] INFO[service.go:49][service|GetWinner :5629
+][2024-07-30 09:18:28] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:30] INFO[service.go:49][service|GetWinner :8265
+][2024-07-30 09:18:31] INFO[service.go:49][service|GetWinner :1885
+][2024-07-30 09:18:31] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:33] INFO[service.go:49][service|GetWinner :2532
+][2024-07-30 09:18:33] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:34] INFO[service.go:49][service|GetWinner :2730
+][2024-07-30 09:18:34] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:35] INFO[service.go:49][service|GetWinner :5139
+][2024-07-30 09:18:35] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:36] INFO[service.go:49][service|GetWinner :240
+][2024-07-30 09:18:36] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:36] INFO[service.go:49][service|GetWinner :1329
+][2024-07-30 09:18:36] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:37] INFO[service.go:49][service|GetWinner :8900
+][2024-07-30 09:18:38] INFO[service.go:49][service|GetWinner :341
+][2024-07-30 09:18:38] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:39] INFO[service.go:49][service|GetWinner :2972
+][2024-07-30 09:18:39] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:39] INFO[service.go:49][service|GetWinner :2222
+][2024-07-30 09:18:39] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:40] INFO[service.go:49][service|GetWinner :625
+][2024-07-30 09:18:40] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:40] INFO[service.go:49][service|GetWinner :1508
+][2024-07-30 09:18:40] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:41] INFO[service.go:49][service|GetWinner :4489
+][2024-07-30 09:18:41] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:41] INFO[service.go:49][service|GetWinner :8359
+][2024-07-30 09:18:42] INFO[service.go:49][service|GetWinner :3711
+][2024-07-30 09:18:42] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:43] INFO[service.go:49][service|GetWinner :3116
+][2024-07-30 09:18:43] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:43] INFO[service.go:49][service|GetWinner :1471
+][2024-07-30 09:18:43] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:44] INFO[service.go:49][service|GetWinner :817
+][2024-07-30 09:18:44] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:44] INFO[service.go:49][service|GetWinner :7492
+][2024-07-30 09:18:44] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:45] INFO[service.go:49][service|GetWinner :276
+][2024-07-30 09:18:45] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:45] INFO[service.go:49][service|GetWinner :897
+][2024-07-30 09:18:45] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:46] INFO[service.go:49][service|GetWinner :1708
+][2024-07-30 09:18:46] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:47] INFO[service.go:49][service|GetWinner :4864
+][2024-07-30 09:18:47] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:47] INFO[service.go:49][service|GetWinner :5544
+][2024-07-30 09:18:47] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:48] INFO[service.go:49][service|GetWinner :2303
+][2024-07-30 09:18:48] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:49] INFO[service.go:49][service|GetWinner :2795
+][2024-07-30 09:18:49] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:49] INFO[service.go:49][service|GetWinner :5526
+][2024-07-30 09:18:49] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:50] INFO[service.go:49][service|GetWinner :3030
+][2024-07-30 09:18:50] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:51] INFO[service.go:49][service|GetWinner :1278
+][2024-07-30 09:18:51] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:51] INFO[service.go:49][service|GetWinner :6792
+][2024-07-30 09:18:51] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:52] INFO[service.go:49][service|GetWinner :1669
+][2024-07-30 09:18:52] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:53] INFO[service.go:49][service|GetWinner :8144
+][2024-07-30 09:18:53] INFO[service.go:49][service|GetWinner :5279
+][2024-07-30 09:18:53] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:54] INFO[service.go:49][service|GetWinner :7020
+][2024-07-30 09:18:54] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:55] INFO[service.go:49][service|GetWinner :5518
+][2024-07-30 09:18:55] INFO[prize.go:34][repo|save prize success][2024-07-30 09:18:55] INFO[service.go:49][service|GetWinner :3815
+][2024-07-30 09:18:55] INFO[prize.go:34][repo|save prize success]
